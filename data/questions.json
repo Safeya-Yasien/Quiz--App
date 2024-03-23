@@ -1,0 +1,68 @@
+[
+  {
+    "question": "What does JSON stand for?",
+    "answers": [
+      { "text": "JavaScript Object Notation", "correct": true },
+      { "text": "JavaScript Order Navigation", "correct": false },
+      { "text": "Java Serialized Object Notation", "correct": false },
+      { "text": "JavaScript Object Naming", "correct": false }
+    ]
+  },
+  {
+    "question": "Which method is used to add new elements to the end of an array and return the new length of the array?",
+    "answers": [
+      { "text": "array.push()", "correct": true },
+      { "text": "array.pop()", "correct": false },
+      { "text": "array.unshift()", "correct": false },
+      { "text": "array.shift()", "correct": false }
+    ]
+  },
+  {
+    "question": "What does the 'typeof' operator in JavaScript return when applied to an array?",
+    "answers": [
+      { "text": "'object'", "correct": true },
+      { "text": "'array'", "correct": false },
+      { "text": "'string'", "correct": false },
+      { "text": "'undefined'", "correct": false }
+    ]
+  },
+  {
+    "question": "Which function is used to execute a function repeatedly, with a fixed time delay between each call?",
+    "answers": [
+      { "text": "setTimeout()", "correct": false },
+      { "text": "setInterval()", "correct": true },
+      { "text": "clearInterval()", "correct": false },
+      { "text": "clearTimeout()", "correct": false }
+    ]
+  },
+  {
+    "question": "What does the '===' operator in JavaScript do?",
+    "answers": [
+      { "text": "Checks for equality of value and type", "correct": true },
+      { "text": "Checks for equality of value", "correct": false },
+      { "text": "Checks for equality of type", "correct": false },
+      { "text": "Checks for strict inequality", "correct": false }
+    ]
+  },
+  {
+    "question": "What is the purpose of 'document.getElementById()' in JavaScript?",
+    "answers": [
+      {
+        "text": "To retrieve an HTML element by its id attribute",
+        "correct": true
+      },
+      {
+        "text": "To set the value of an HTML element by its id attribute",
+        "correct": false
+      },
+      {
+        "text": "To create a new HTML element with the specified id attribute",
+        "correct": false
+      },
+      {
+        "text": "To remove an HTML element by its id attribute",
+        "correct": false
+      }
+    ]
+  }
+]
